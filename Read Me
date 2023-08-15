@@ -1,0 +1,45 @@
+
+# OvenCraft Pizzaria
+
+
+
+OvenCraft Pizzaria is a simple pizza ordering application built using Python's `tkinter` library. This application allows users to select their desired pizza type from a menu and place an order. It provides an intuitive and interactive user interface for ordering pizzas.
+
+## Features
+
+- User-friendly GUI for ordering pizzas.
+- Selection of pizza type from a dropdown menu.
+- Ability to place an order and receive a confirmation message.
+- Use of `PIL` (Python Imaging Library) to display background images.
+
+## Getting Started
+
+1. Clone the repository to your local machine using `git clone https://github.com/your-username/pizza-ordering-app.git`.
+2. Navigate to the project directory: `cd pizza-ordering-app`.
+3. Run the application: `python pizza_app.py`.
+
+## Requirements
+
+- Python 3.x
+- `tkinter` library (included with most standard Python installations)
+- `PIL` (Python Imaging Library) for image support
+
+## Usage
+
+1. Run the pizza ordering application by executing `pizza_app.py` using Python.
+2. The application window will display the welcome message and a background image.
+3. Select your desired pizza type from the dropdown menu.
+4. Click the "Place Order" button to submit your pizza order.
+5. A confirmation message will pop up, indicating that your order has been placed.
+
+## Screenshots
+
+![Application Screenshot](screenshot.png)
+
+## Acknowledgements
+
+This project was created to showcase a simple pizza ordering application using the `tkinter` library. It demonstrates how graphical user interfaces can be built for interactive user interactions.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
